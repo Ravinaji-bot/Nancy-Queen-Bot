@@ -17,7 +17,7 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = "1834715690"
+    API_ID = "24358501"
     API_HASH = "fa51ce8876c215d8a76c98c755e6d2d3"
     BOT_TOKEN = ""
     DATABASE_URL = ""
